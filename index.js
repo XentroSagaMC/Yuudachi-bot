@@ -10,7 +10,7 @@ const bot = new Discord.Client();
     });
 
 //bot login
-    bot.login("MzUxNDI3NjA2ODUzNDUxNzc2.DIScIw.Lk6NQ4nM6pe7E52P48H6NYT2B-M");
+    bot.login("MjQ2OTUzNzYyMjYwNzc5MDA4.DKOq1w.BWUfW0wxeS43V-PPy5pkhrFjvkg");
 
 
 //bot commands
